@@ -1,0 +1,6 @@
+{
+  "name": "LILI - AI Operating System",
+  "description": "Futuristic 3D Holographic AI Operating System with voice interaction, system control, live calendar and festival explorer, live weather, smart home hub, and custom automation routines.",
+  "requestFramePermissions": ["microphone", "camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
